@@ -22,10 +22,10 @@ export default {
     // "bundle": true,
   },
   packageOptions: {
-    /* ... */
+    
   },
   devOptions: {
-    /* ... */
+    tailwindConfig: './tailwind.config.js',
   },
   buildOptions: {
     /* ... */
