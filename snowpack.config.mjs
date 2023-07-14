@@ -26,6 +26,7 @@ export default {
   },
   devOptions: {
     tailwindConfig: './tailwind.config.js',
+    port:7200
   },
   buildOptions: {
     /* ... */
